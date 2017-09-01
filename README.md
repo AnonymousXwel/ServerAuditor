@@ -6,13 +6,12 @@
 
 
 
-
-Error log : 
+#Error log : 
 
  KeyboardInterrupt	(exit):
     - You click ctrl + c 
     
- ###NameError (my favorite):
+ NameError (my favorite):
     - you must choice option from list !
     - try restart program 
     
