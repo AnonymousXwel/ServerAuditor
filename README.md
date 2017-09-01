@@ -13,8 +13,8 @@ Error log :
     - You click ctrl + c 
     
  NameError (my favorite)
-    - You must choice option from list !
-    - Try restart program 
+    - you must choice option from list !
+    - try restart program 
     
  SyntaxError (master of hide & seek)  
     -program have error pls write to me ;)
