@@ -6,7 +6,7 @@
 
 
 
-#Error log : 
+Error log : 
 
  KeyboardInterrupt	(exit):
     - You click ctrl + c 
