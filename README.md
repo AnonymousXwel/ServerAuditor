@@ -28,3 +28,4 @@ Error log :
     -python have problem with open or close file did you delet or move to anothe folder file ?
     -restart program 
 
+ 
